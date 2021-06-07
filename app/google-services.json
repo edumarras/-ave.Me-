@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "158324273390",
+    "project_id": "saveme-30b01",
+    "storage_bucket": "saveme-30b01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:158324273390:android:40f185112d85763d5d43ff",
+        "android_client_info": {
+          "package_name": "com.saveme.testetesteteste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "158324273390-kr8vajq8e9in505aaf5eta8kdcli1b2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUQru-fa2Rbv421Ea0b2jmCRXb5L9tWSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "158324273390-kr8vajq8e9in505aaf5eta8kdcli1b2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
